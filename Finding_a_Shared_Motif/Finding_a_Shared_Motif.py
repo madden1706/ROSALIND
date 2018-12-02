@@ -72,7 +72,7 @@ for i in range(0, len(sorted_suffix_array)-1): # evaluates the strings for match
         a, b = b, sorted_suffix_array[i+2]
         #print("a:", a, "b:", b)
 
-prefix_array.append(0)
+prefix_array.insert(0, 0)
 # print(prefix_array)
 
 # Finds the first suffix of the string and returns to array.
@@ -88,12 +88,63 @@ for i in sorted_suffix_array:
     except:
         sentinel_sorted_suffix_array.append(str(i[x]))
 
-suffix_length_array = [(a, b, c) for a, b, c in zip(prefix_array,sorted_suffix_array, sentinel_sorted_suffix_array)]
+suffix_length_array = [(a, b, c) for a, b, c in zip(prefix_array, sentinel_sorted_suffix_array, sorted_suffix_array, )]
 
+pos = 0
 for i in suffix_length_array:
-    print(i[0], " ", i[1], " ", i[2])
+    print(pos, " ", i[0], " ", i[1], " ", i[2])
+    pos += 1
+
 
 # Sliding Window Analysis of LCP Array
+
+# make window
+window = [0, 1]
+result_array = []
+lcp_value = 0
+
+sentinel_values_used = set(re.findall(r'[!"#$%&\'()*+,\-./0123456789]', str(concat_string)))
+
+while window[1] < len(sorted_suffix_array): # TODO does this get to the end correctly? With window[0] evaluation?
+    if set(sentinel_sorted_suffix_array[window[0]: window[1]]) == sentinel_values_used:
+
+        # print("match")
+        # print("yes", set(sentinel_sorted_suffix_array[window[0]: window[1]])
+
+        # dictates the prefix length ot return.
+        prefix_to_return = prefix_array[window[0]:window[1]]
+        prefix_to_return.pop(0)
+        prefix_to_return = sorted(prefix_to_return)
+
+        # print(prefix_to_return[0])
+        # print(str(sorted_suffix_array[window[1]-1][0:prefix_to_return[0]]))
+
+        if lcp_value < prefix_to_return[0]:
+            result_array = [str(sorted_suffix_array[window[1] - 1][0:prefix_to_return[0]])]
+            lcp_value = prefix_to_return[0]
+        elif lcp_value == prefix_to_return[0]:
+            result_array.append(str(sorted_suffix_array[window[1]-1][0:prefix_to_return[0]]))
+        else:
+            pass
+        # print(lcp_value)
+        window[0] = window[0] + 1
+
+    else:
+
+        # print(window)
+        # print("no", set(sentinel_sorted_suffix_array[window[0]: window[1]]))
+        window[1] = window[1] + 1
+
+print("Longest commong substrings are:")
+for i in result_array:
+    print(i)
+
+
+# expand if do not have all prefixes
+
+# if have all, store not 0 smallest LCP value and seq
+
+# shrink window and repeat
 
 
 
