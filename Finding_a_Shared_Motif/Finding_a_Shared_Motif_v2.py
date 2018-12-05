@@ -109,7 +109,7 @@ while window[1] < len(string_array) + 1:  # TODO does this get to the end correc
         # print("no", set(suffix_array[window[0]: window[1]]))
         window[1] = window[1] + 1
 
-print("Longest commong substrings are:")
+print("Longest common substrings are:")
 for i in result_array:
     print(i)
 
