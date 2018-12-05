@@ -1,3 +1,6 @@
+# Finds the longest common substring that occurs in all strings, via a suffix array.
+# Takes an input of a fasta file.
+
 from Bio import Seq, SeqIO
 from itertools import permutations
 import sys
