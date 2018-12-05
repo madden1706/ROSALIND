@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Mendels_First_Law/Mendels_First_Law.py" line="72" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="63e633f1-d2aa-4c89-83e7-06c407baf37f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.test.fasta.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Counting DNA Nucleotides.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Transcribing DNA into RNA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Computing GC Content.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Counting Point Mutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNA_Count_point_mutants" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finding a Motif in DNA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Finding_a_Motif_in_DNA.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mortal Fibonacci Rabbits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rabbits and Recurrence Relations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Translating RNA into Protein.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.fasta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,102 +13,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="44691451">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.11" value="4" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="DNA_Count_point_mutants" value="1" />
-          <entry key="Finding_a_Motif_in_DNA" value="1" />
-          <entry key="TestDome_RES" value="1" />
-          <entry key="fasta" value="10" />
-          <entry key="py" value="29" />
-          <entry key="txt" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="29" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="88" />
-          <entry key="fasta" value="1" />
-          <entry key="py" value="12899" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="12987" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Rosalind" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="507">
+              <caret line="179" selection-start-line="179" selection-end-line="180" selection-end-column="19" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#813#1145#0" />
+                <element signature="e#1305#4088#0" />
+                <element signature="e#3763#5421#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/input.fasta">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Finding_A_Protein_Motif/Finding_A_Protein_Motif.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif_v2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <caret line="13" column="18" lean-forward="true" selection-end-line="119" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#150#333#0" />
-                <element signature="e#374#784#0" />
-                <element signature="e#832#1682#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Finding_a_motif_in_DNA/Finding_a_Motif_in_DNA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +57,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>NNTS</find>
+      <find>2391</find>
+      <find>ATATCCCTTCTCTGATGATAAGTTAAGCAGAATGCCATCGTAAGTGCTACGTCCCTCGTTCTTTACGCCCGATTTCTCCACTAAATCAGTTCCGGCGTGAACCGCTGCGCGTAACCGGGCCGACTTGA</find>
+      <find>CGTGAACCGCTGCGCGTAAC</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,31 +91,59 @@
         <option value="$PROJECT_DIR$/Find_Long_Path.py" />
         <option value="$PROJECT_DIR$/Depth_First_Search.py" />
         <option value="$PROJECT_DIR$/Finding a Protein Motif.py" />
-        <option value="$PROJECT_DIR$/Finding_a_Shared_Motif/input.fasta" />
         <option value="$PROJECT_DIR$/Computing_GC_Content.py" />
         <option value="$PROJECT_DIR$/Finding_a_motif_in_DNA/Finding_a_Motif_in_DNA.py" />
+        <option value="$PROJECT_DIR$/Overlap_Graphs/input.fasta" />
+        <option value="$PROJECT_DIR$/Overlap_Graphs/Overlap_Graphs.py" />
+        <option value="$PROJECT_DIR$/Mendels_First_law.py" />
+        <option value="$PROJECT_DIR$/Mendels_First_Law/Mendels_First_Law.py" />
+        <option value="$PROJECT_DIR$/Calculating_Expected_Offspring/Calculating_Expected_Offspring.py" />
         <option value="$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py" />
+        <option value="$PROJECT_DIR$/Finding_a_Shared_Motif/input.fasta" />
+        <option value="$PROJECT_DIR$/Finding_a_Shared_Motif/test.fasta" />
+        <option value="$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif_v2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2376" />
-    <option name="y" value="339" />
-    <option name="width" value="655" />
-    <option name="height" value="741" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Rosalind" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rosalind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rosalind" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rosalind" type="462c0819:PsiDirectoryNode" />
+              <item name="Finding_a_Shared_Motif" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dogcathooman" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Finding_a_Shared_Motif" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Finding_a_motif_in_DNA" />
     </key>
@@ -208,8 +160,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Finding_a_Shared_Motif">
-    <configuration name="Consensus and Profile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Finding_a_Shared_Motif_v2">
+    <configuration name="Calculating_Expected_Offspring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Rosalind" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,74 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculating_Expected_Offspring" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Consensus and Profile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Depth_First_Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Rosalind" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Depth_First_Search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Find_Long_Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Rosalind" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find_Long_Path.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Finding a Protein Motif" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Rosalind" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Finding a Protein Motif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculating_Expected_Offspring/Calculating_Expected_Offspring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,20 +203,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Finding_a_Shared_Motif_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Finding_a_Shared_Motif" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mendels_First_Law" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mendels_First_Law" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mendels_First_Law/Mendels_First_Law.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Overlap_Graphs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Overlap_Graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Overlap_Graphs/Overlap_Graphs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Consensus and Profile" />
-      <item itemvalue="Python.Finding a Protein Motif" />
-      <item itemvalue="Python.Find_Long_Path" />
-      <item itemvalue="Python.Depth_First_Search" />
       <item itemvalue="Python.Finding_a_Shared_Motif" />
+      <item itemvalue="Python.Overlap_Graphs" />
+      <item itemvalue="Python.Mendels_First_Law" />
+      <item itemvalue="Python.Calculating_Expected_Offspring" />
+      <item itemvalue="Python.Finding_a_Shared_Motif_v2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Finding_a_Shared_Motif_v2" />
         <item itemvalue="Python.Finding_a_Shared_Motif" />
-        <item itemvalue="Python.Depth_First_Search" />
-        <item itemvalue="Python.Find_Long_Path" />
-        <item itemvalue="Python.Finding a Protein Motif" />
-        <item itemvalue="Python.Consensus and Profile" />
+        <item itemvalue="Python.Calculating_Expected_Offspring" />
+        <item itemvalue="Python.Mendels_First_Law" />
+        <item itemvalue="Python.Overlap_Graphs" />
       </list>
     </recent_temporary>
   </component>
@@ -357,26 +309,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="337" width="1366" height="743" extended-state="6" />
+    <frame x="960" y="25" width="960" height="1055" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2973274" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.32516703" />
-      <window_info id="Favorites" order="2" side_tool="true" weight="0.3287879" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4852941" weight="0.30087528" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.3238512" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32870865" />
+      <window_info x="29" y="432" width="954" height="370" id="Debug" order="3" sideWeight="0.5147059" side_tool="true" weight="0.2702407" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4827586" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277311" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32563025" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.48109242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.2937365" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32721382" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.325054" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053364" side_tool="true" weight="0.33585313" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.48109242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="120" height="543" id="Documentation" order="3" side_tool="true" weight="0.32967034" />
+      <window_info anchor="right" x="0" y="0" width="120" height="543" id="Documentation" order="3" side_tool="true" weight="0.32932165" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29442692" />
@@ -399,8 +351,26 @@
       <window_info anchor="right" x="0" y="0" width="120" height="543" id="Documentation" order="3" side_tool="true" weight="0.32967034" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1_Counting DNA Nucleotides.py" />
@@ -436,6 +406,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_A_Protein_Motif/Finding a Protein Motif.py" />
+    <entry file="file://$PROJECT_DIR$/Finding_a_Motif_in_DNA.txt" />
+    <entry file="file://$PROJECT_DIR$/test.fasta" />
+    <entry file="file://$PROJECT_DIR$/Computing_GC_Content.py" />
+    <entry file="file://$PROJECT_DIR$/Finding_a_motif_in_DNA/Finding_a_Motif_in_DNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Counting_point_mutations/Counting_point_mutations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Counting_DNA_Nucleotides.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_A_Protein_Motif/Finding_A_Protein_Motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#150#333#0" />
+            <element signature="e#374#784#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overlap_Graphs/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overlap_Graphs/input.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4485">
+          <caret line="299" column="38" selection-start-line="299" selection-start-column="38" selection-end-line="299" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Depth_First_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overlap_Graphs/Overlap_Graphs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#145#1306#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mendels_First_law.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mendels_First_Law/Mendels_First_Law.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#427#456#0" expanded="true" />
+            <element signature="e#517#2405#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Find_Long_Path.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -443,53 +494,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Depth_First_Search.py">
+    <entry file="file://$PROJECT_DIR$/Calculating_Expected_Offspring/Calculating_Expected_Offspring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Finding_A_Protein_Motif/Finding a Protein Motif.py" />
-    <entry file="file://$PROJECT_DIR$/Finding_a_Motif_in_DNA.txt" />
-    <entry file="file://$PROJECT_DIR$/test.fasta" />
-    <entry file="file://$PROJECT_DIR$/Computing_GC_Content.py" />
-    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/input.fasta">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Finding_A_Protein_Motif/Finding_A_Protein_Motif.py">
+    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/contcat_substring.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/test.fasta">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        <state relative-caret-position="26985">
+          <caret line="1799" column="40" selection-start-line="1799" selection-start-column="40" selection-end-line="1799" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/concat_substring.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="179" selection-start-line="179" selection-end-line="180" selection-end-column="19" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#150#333#0" />
-            <element signature="e#374#784#0" />
-            <element signature="e#832#1682#0" />
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#813#1145#0" />
+            <element signature="e#1305#4088#0" />
+            <element signature="e#3763#5421#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Finding_a_motif_in_DNA/Finding_a_Motif_in_DNA.py">
+    <entry file="file://$PROJECT_DIR$/Finding_a_Shared_Motif/Finding_a_Shared_Motif_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="true" selection-end-line="119" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
