@@ -1,5 +1,7 @@
+#!/usr/bin/python
+
 # Finds the longest common substring that occurs in all strings, via a suffix array.
-# Takes an input of a fasta file.
+# Takes an input of a fasta file, needs to be run on linux due to shell sort.
 
 from Bio import Seq, SeqIO
 from itertools import permutations
@@ -50,7 +52,7 @@ subprocess.run(["sort concat_substring.txt -o concat_substring.txt"], shell=True
 
 # --- CREATE PREFIX, LCS LENGTH & LCS STRING ARRAYS ---
 line_one = ""
-line_two = "X"
+line_two = "X"  # X = holding character with no matches.
 prefix_array = []
 suffix_array = []
 string_array = []
@@ -84,7 +86,7 @@ lcp_value = 0
 
 
 while window[1] < len(string_array) + 1:  # TODO does this get to the end correctly? With window[0] evaluation?
-    if set(suffix_array[window[0]: window[1]]) ==set(sentinel_values_used):
+    if set(suffix_array[window[0]: window[1]]) == set(sentinel_values_used):
 
         # print("match")
         # print("yes", set(suffix_array[window[0]: window[1]]))
