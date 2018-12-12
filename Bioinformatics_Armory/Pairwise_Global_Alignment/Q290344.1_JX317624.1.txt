@@ -1,0 +1,193 @@
+########################################
+# Program: needle
+# Rundate: Wed 12 Dec 2018 20:45:41
+# Commandline: needle
+#    -outfile Q290344.1_JX317624.1.txt
+#    -asequence JQ290344.1.fasta
+#    -bsequence JX317624.1.fasta
+#    -gapopen 10
+#    -gapextend 1
+#    -endweight True
+#    -endopen 10
+#    -endextend 1
+# Align_format: srspair
+# Report_file: Q290344.1_JX317624.1.txt
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: JQ290344.1
+# 2: JX317624.1
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 1.0
+#
+# Length: 1918
+# Identity:     768/1918 (40.0%)
+# Similarity:   768/1918 (40.0%)
+# Gaps:         933/1918 (48.6%)
+# Score: 608.0
+# 
+#
+#=======================================
+
+JQ290344.1         1 ATGGCTGTGTATGTTAATTCTACAACTGGTCCCCCTCCAAGCGTCGGTCG     50
+                     ||                       .|||       |||||    ||..|
+JX317624.1         1 AT-----------------------TTGG-------CCAAG----GGGGG     16
+
+JQ290344.1        51 GAATTCAGCAGGTTTTCATCCAAGCATTTGGGGGGACAAATTCATCACAT    100
+                     ||   |.||          ||  |.|||      |||.|           
+JX317624.1        17 GA---CCGC----------CC--GGATT------GACGA-----------     34
+
+JQ290344.1       101 CCAGTAACTCAGCTGTTCAGAAAACTGATGTTGATCGCAAAGAGG-AAGA    149
+                     ||.|   ||    ||      ||||   |||||..|||     || |.||
+JX317624.1        35 CCGG---CT----TG------AAAC---TGTTGGCCGC-----GGTAGGA     63
+
+JQ290344.1       150 GAAGCTCCAACTGCTAAAACAAGAAGTGAAGAAGATGCTGACTGCTGGAG    199
+                     |     |||.|              ||               |..|||  
+JX317624.1        64 G-----CCACC--------------GT---------------TTATGG--     77
+
+JQ290344.1       200 ACACGTCTCAACAAGATTTGATATGCTTAATTGATGACATTCAACGTCTG    249
+                      ||    ||||||  |||..||.|.|..|.|.||||         ||   
+JX317624.1        78 -CA----TCAACA--ATTCCATGTTCACAGTCGATG---------GT---    108
+
+JQ290344.1       250 GGT--TTGTCTTACCACTTTGAAGCTGAGATTGACACATTATTACAACAC    297
+                     |||  |.||...|.||..||.|| |.|| ||||                 
+JX317624.1       109 GGTCATCGTGCAATCATGTTCAA-CCGA-ATTG-----------------    139
+
+JQ290344.1       298 GTGAAGCACAGCTATGTCGAACATTATGGCAAAAAGAATCATGATAATTT    347
+                     |||  ||        ||||                  .|.|.||| ||.|
+JX317624.1       140 GTG--GC--------GTCG------------------GTGACGAT-ATCT    160
+
+JQ290344.1       348 ACA-TGA--TGTTGCACTAAGTTTTCGCTTACTTAGACAAGAAGG--CCA    392
+                     ||| |||  .||||||     |||.||       ||.|..| .||  || 
+JX317624.1       161 ACAGTGAAGGGTTGCA-----TTTCCG-------AGTCCCG-TGGTTCC-    196
+
+JQ290344.1       393 TAATAT---TTCTTCTGATG-TATTCTCCAAATT------CCAGGACAG-    431
+                      |||||   .||.||| ||| .||||.|     |      |||||| || 
+JX317624.1       197 -AATATCCGATCGTCT-ATGACATTCGC-----TCGCGCCCCAGGA-AGA    238
+
+JQ290344.1       432 ---------CGACGGGAAGTTC-AAGGAGGAATTGGTTGAGGAT-GTGAG    470
+                              ||||.|||   || |||||       .|||..||| |||| 
+JX317624.1       239 TCTCCTCTCCGACTGGA---TCGAAGGA-------TTTGCAGATGGTGA-    277
+
+JQ290344.1       471 AGGAATGCTAAGTTTGTTTGAAGCAGCACATCTTAGAGTGCACGGAGAGA    520
+                                                ||||||       |.|.|.||| 
+JX317624.1       278 ---------------------------ACATCT-------CCCTGCGAG-    292
+
+JQ290344.1       521 ATATACT--------AGAAGATGCTCTTGAATTTACCACCACTCACCTTA    562
+                        ||||        .|  |||||.|       |||.||           
+JX317624.1       293 ---TACTGTCCCGTCCG--GATGCCC-------TACGAC-----------    319
+
+JQ290344.1       563 ATTCATATCTCAATTCCAACCCAAGTTCATCACTAGCAGACCTTGTTCGT    612
+                                  ||||.| .||.||  |.|.|.|||.|           
+JX317624.1       320 -------------TTCCGA-TCATGT--ACCGCCAGCTG-----------    342
+
+JQ290344.1       613 CGTGCACTGAAGTATCCCCTGCGTAAGAGTTTTAATAGAATGGTGGCAAG    662
+                        |.||||.|       ||.|| |.||          ||.||||     
+JX317624.1       343 ---GGACTGGA-------CTACG-ACGA----------AAAGGTG-----    366
+
+JQ290344.1       663 GCATTACATTTCAGTCTACCACAAATTTGATTGGCATAAGCAAGTTCT--    710
+                                    ||.|||...|||||       |||..||||.||  
+JX317624.1       367 ---------------CTGCCATCGATTTG-------TAACGAAGTGCTCA    394
+
+JQ290344.1       711 ----TTTGGATATGGCAAAATGTGACTTTAA--CCTAGTGCAGAAGGTTC    754
+                         |.|||   ||||.|      |.||.||  |||  .|||    ..||
+JX317624.1       395 AGAGTGTGG---TGGCCA------AGTTCAACGCCT--CGCA----ACTC    429
+
+JQ290344.1       755 ATCAAAATGAGCTAGGTTATATCACAAGGTGGTGGAAAGATTTAGATTTC    804
+                     |||  |.|.|||                      ||.||   .||.||||
+JX317624.1       430 ATC--ACTCAGC----------------------GACAG---CAGGTTTC    452
+
+JQ290344.1       805 ACAAATAAACTTCCTTTTGCAAGAGATAGAGTAGTGGAATGCTACTTCTG    854
+                     .|...|||.|..||    ||.|       |.|.||||||           
+JX317624.1       453 GCTCCTAATCCGCC----GCGA-------ACTGGTGGAA-----------    480
+
+JQ290344.1       855 GATAACAGGGGTGTACTTTGAACCCCGATATGCCGCGCCCCGAAA--ATT    902
+                                                      |||||    |||  |||
+JX317624.1       481 ---------------------------------CGCGC----AAAGGATT    493
+
+JQ290344.1       903 TCTAACCGAAGTTATGTCTTTAACATCCATAATTGATGACATATAT-GAT    951
+                     ||                   ||||| |||..|.||||  ||.|.| |.|
+JX317624.1       494 TC-------------------AACAT-CATCCTGGATG--ATGTTTCGCT    521
+
+JQ290344.1       952 GTCTACGGAACCCCTGATGAGCTTGTGCAACTCGCTGATGCAATTGATAA   1001
+                     |   |||||||      |.|||||..||||                    
+JX317624.1       522 G---ACGGAAC------TCAGCTTCGGCAA--------------------    542
+
+JQ290344.1      1002 ATGGGATATCAGTATCTTAGATCAGCTGCCGGAGTACGTGAGACATGCTT   1051
+                       ||.||| ||           |.||.||||      .|||   |.||  
+JX317624.1       543 --GGAATA-CA-----------CGGCGGCCG------TTGA---AAGC--    567
+
+JQ290344.1      1052 ATAAACCTCTATTGGACACTTTTGCTGAAGCCGAAGAGGAGATGGCAAAT   1101
+                       ||||          .|.||        |||.|                
+JX317624.1       568 --AAAC----------AAGTT--------GCCCA----------------    581
+
+JQ290344.1      1102 GAAGGACTGCCAACATACGGCGTTGATTATGCTAAAG----AAGCTTTTA   1147
+                     |.||||...|||||.|.||||.||..|..|| .||.|    ||||     
+JX317624.1       582 GCAGGAAGCCCAACGTGCGGCTTTCCTCGTG-GAACGAGCCAAGC-----    625
+
+JQ290344.1      1148 AAAGG--CTGGCAGTAGCATATCTCCAAGAAACAAAATGGCTTCAGGCTC   1195
+                       |||  | |||||.||                |||||.| |.||||||.
+JX317624.1       626 --AGGAAC-GGCAGCAG----------------AAAATCG-TGCAGGCTG    655
+
+JQ290344.1      1196 AGTACATCCCAACGTTTGAAGAGTATCTGAGTGTTGC--ACTTGTT---T   1240
+                     |            |..|||||     |.||| |.|||  |..||||   |
+JX317624.1       656 A------------GGGTGAAG-----CCGAG-GCTGCCAAAATGTTGGGT    687
+
+JQ290344.1      1241 CTG--CGGGAGGAAATAT----GCTATC---AGTCTC---AAGCTTCGTG   1278
+                     |||  ||..||..||.||    ||||.|   || |||   |||.||||.|
+JX317624.1       688 CTGGCCGTCAGTCAAAATCCTGGCTACCTGAAG-CTCAGGAAGATTCGCG    736
+
+JQ290344.1      1279 CGAATGGGTAACATTGCAACTAGAGAAGCATTCGAGTGGCTCTCTAAAGA   1328
+                     |             .|||  .||   |||||        |.|||.||.||
+JX317624.1       737 C-------------CGCA--CAG---AGCAT--------CGCTCGAACGA    760
+
+JQ290344.1      1329 TCCCTTAATTGCTAACGGCTTATCCGTGATTA----TCAG---ACTTAGT   1371
+                     ||.|    |.|||   .||..|.|||||..||    ||.|   ||  |||
+JX317624.1       761 TCGC----TGGCT---CGCAGAACCGTGTCTACCTCTCCGCCAAC--AGT    801
+
+JQ290344.1      1372 GATGACATTGTGGGACATGAGTTCGAAAGTCAGA----GACCACATATAC   1417
+                      .|||   |||.|.||||   ||||.|.| |.||    ||..||||.| |
+JX317624.1       802 -TTGA---TGTTGAACAT---TTCGGATG-CCGAATTCGATGACATGT-C    842
+
+JQ290344.1      1418 CATCAG-CTGTCGAGT--------GCTACATGAAATCACAT--------G   1450
+                     ||..|| .|.||.|||        | || ||.|||||.|||        |
+JX317624.1       843 CAAGAGAGTTTCAAGTAAGAAATAG-TA-ATAAAATCGCATTTTAGGGCG    890
+
+JQ290344.1      1451 ATGT-TA---CAAAAGAAACTGC----TTATGC-----------TGAACT   1481
+                     ..|| ||   |.|||||.| |||    .|||||           |||  |
+JX317624.1       891 CAGTATAAGGCCAAAGACA-TGCCGTTCTATGCATTTCTTTGATTGA--T    937
+
+JQ290344.1      1482 ACA-------GAAACCCATTATAAAGGCATGGAAAGATATGAA-TGAGGG   1523
+                     .||       ||.|||.||.|||             ||||||| ||..|.
+JX317624.1       938 TCAAAAAGGGGATACCAATCATA-------------ATATGAACTGCTGA    974
+
+JQ290344.1      1524 AT--GCCTCCA-----TCCAGAA---------GCA---CCTCCAAAGCCG   1554
+                     ||  .||||||     |||.|||         |||   ..|.||||    
+JX317624.1       975 ATTCACCTCCAGCGATTCCGGAAATTGGTTTGGCATTGGTTTCAAA----   1020
+
+JQ290344.1      1555 TTGC--TCGAAAGAGTCCTCAATCTGGCACGT--GTGTTAAACTTTCTTT   1600
+                     ||||  ||||.| |||      ||.|.|.|||  ||.||    ||.||| 
+JX317624.1      1021 TTGCTTTCGATA-AGT------TCCGTCCCGTTCGTCTT----TTGCTT-   1058
+
+JQ290344.1      1601 ATGACGGGCAT--GATGGATAC---------ACACATTC-----------   1628
+                          |||.||  |||..||||         |||.|.||           
+JX317624.1      1059 -----GGGGATGGGATTTATACGAAGAAAAAACAAAATCGGAAATTATAC   1103
+
+JQ290344.1      1629 ------------------CTCAACCAGGACCA--AAGATATTA-----TA   1653
+                                       .|||.|.|||..||  |..||||||     .|
+JX317624.1      1104 CTTAGAGTTGGAAGTGTGTTCAGCTAGGTTCAGTAGAATATTAGTGGCGA   1153
+
+JQ290344.1      1654 ACCA----------CGGCTTTCA--TAAATCCCATTCCA---CTATAG--   1686
+                     |.||          .|.||||.|  |.|.|    ||.||   ||.|||  
+JX317624.1      1154 ATCATCTTAGGGAGAGCCTTTAAGTTTAGT----TTGCAAATCTGTAGCT   1199
+
+JQ290344.1      1686 ------------------   1686
+                                       
+JX317624.1      1200 TAGTGGAACGCTGGAACC   1217
+
+
+#---------------------------------------
+#---------------------------------------
