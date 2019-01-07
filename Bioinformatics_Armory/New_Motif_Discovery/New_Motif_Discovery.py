@@ -9,7 +9,7 @@ import subprocess
 # Script takes fasta file of from the MEME output as "meme_fasta_output.fasta".
 # Returns a regular expression of the motif.
 
-subprocess.run(["meme input.fasta"], shell=True, check=True)
+subprocess.run(["meme input.fasta"], shell=True, check=True)  # runs MEME locally.
 
 tree = ET.parse('meme_out/meme.xml')
 root = tree.getroot()
@@ -17,7 +17,7 @@ root = tree.getroot()
 print("Regular expression", root[2][0][2].text)
 
 
-# ----- Redundant with xml parsing.
+# ----- Redundant with xml parsing (above).
 
 seqs = SeqIO.parse("meme_fasta_output.fasta", "fasta", alphabet=IUPAC.protein)
 
