@@ -3,7 +3,7 @@
 from Bio import SeqIO, Seq
 from Bio.Alphabet import RNAAlphabet, DNAAlphabet
 import sys
-import regex as re
+from Bio.SeqUtils import six_frame_translations
 
 input_sequences = []
 
@@ -69,6 +69,7 @@ for seqs in result_seqs:
         print(seqs)
         outfile.write(str(seqs + "\n"))
 
-
+# for seqs in SeqIO.parse("input.fasta", "fasta"):
+#     print(six_frame_translations(seqs.seq).)
 
 # create array of all seqs, sort alphabetically, bin non ATG seqs ??
